@@ -2,7 +2,7 @@
 🖥️I mainly use github to upload my few boredom projects/code🖥️  
 🗿I'm intrested on cybersecurity, networking, and GNU/Linux🗿  
 🤖I'm not really interested in collaborating, but feel free to ask🤖
-https://www.codewars.com/users/Zack2/badges/small
+<a href="https://www.codewars.com/users/Zack2/badges/small"><img src="https://www.codewars.com/users/Zack2/badges/small">
 
 <!---
 ZackMvP/ZackMvP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
