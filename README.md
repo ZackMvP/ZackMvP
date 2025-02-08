@@ -3,7 +3,7 @@
 🗿I'm intrested on cybersecurity, networking, and GNU/Linux🗿  
 🤖I'm not really interested in collaborating, but feel free to ask🤖  
 <a href="https://www.codewars.com/users/Zack2/badges/small"><img src="https://www.codewars.com/users/Zack2/badges/small"></img></a>  
-<img src="https://github.com/user-attachments/assets/1d2a56b5-3a34-418b-ba01-4f41fe69597b" width="400"/>
+<img src="https://github.com/user-attachments/assets/1d2a56b5-3a34-418b-ba01-4f41fe69597b" width="240" height="400/>
 
 <!---
 ZackMvP/ZackMvP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
