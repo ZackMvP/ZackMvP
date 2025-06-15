@@ -1,10 +1,8 @@
-✨Hello, I'm Zack. A learner and beginner on github as well as the computer science study✨  
-🖥️I mainly use github to upload my few boredom projects/code🖥️  
-🗿I'm intrested on cybersecurity, networking, and GNU/Linux🗿  
-🤖I'm not really interested in collaborating, but feel free to ask🤖  
+<h1>To achieve order, chaos must be sacrificed. And vice versa.</h1>
+✨Hello, I'm Zack✨  
+🖥️In this profile you'll find my some of my public projects🖥️  
+🗿My main interest is on cybersecurity, networking, and GNU/Linux🗿   
 <a href="https://www.codewars.com/users/Zack2/badges/small"><img src="https://www.codewars.com/users/Zack2/badges/small"></img></a>  
-<img src="https://github.com/user-attachments/assets/1d2a56b5-3a34-418b-ba01-4f41fe69597b" width="240" height="400"/>
-
 <!---
 ZackMvP/ZackMvP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
